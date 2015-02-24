@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST303: The Age of Revolutions in the Atlantic World, 1776–1848"
+course_description: "An introductory survey of the history of the Age of Revolutions in the Atlantic World. Themes include the industrial revolution, the American, French, and Haitian revolutions, and Britain’s counter-revolution."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The American Revolution** <span id="2"></span> 
 *The American Revolution was the first of the Atlantic Revolutions.  The
 roots of the American Revolution can be traced back to both the

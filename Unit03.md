@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST303: The Age of Revolutions in the Atlantic World, 1776–1848"
+course_description: "An introductory survey of the history of the Age of Revolutions in the Atlantic World. Themes include the industrial revolution, the American, French, and Haitian revolutions, and Britain’s counter-revolution."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The French Revolution** <span id="3"></span> 
 *The French Revolution was the primary catalyst for spreading
 revolutionary ideas throughout Europe.  The Ancient Regime had divided
