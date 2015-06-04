@@ -128,3 +128,12 @@ total of 5 hours) on Monday and Tuesday nights; subunits 1.1.2 through
 1.1.5 (a total of 6.5 hours) on Wednesday and Thursday nights; etc.  
     
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/hist303/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist303/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist303/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist303/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist303/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist303/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist303/Unit07/)
