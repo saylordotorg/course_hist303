@@ -147,3 +147,4 @@ total of 5 hours) on Monday and Tuesday nights; subunits 1.1.2 through
 - [Unit 5](https://legacy.saylor.org/hist303/Unit05/)
 - [Unit 6](https://legacy.saylor.org/hist303/Unit06/)
 - [Unit 7](https://legacy.saylor.org/hist303/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST303/HIST303-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST303/HIST303-FinalExam-Answers.html)
