@@ -267,12 +267,12 @@ id="5.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 5 Assessment”**
 
     Link: The Saylor Foundation’s [“Unit 5
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST303-Unit-5-Assessment.FINAL_.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST303-Unit-5-Assessment.FINAL_.pdf)
     (PDF)  
         
      Instructions: Please complete the entire assessment. You can check
     your work against The Saylor Foundation’s [“Unit 5 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST303-Unit-5-Answer-Key.FINAL_.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST303-Unit-5-Answer-Key.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take no more than 30 minutes.

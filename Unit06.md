@@ -102,7 +102,7 @@ id="6.1"></span> 
 -   **Reading: The Saylor Foundation’s “The United States and the 1848
     Revolutions”**
     Link: The Saylor Foundation’s [“The United States and the 1848
-    Revolutions”](http://www.saylor.org/site/wp-content/uploads/2012/11/HIST303-6.2.1-USand1848Revolutions-FINAL.pdf)
+    Revolutions”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-6.2.1-USand1848Revolutions-FINAL.pdf)
     (PDF)  
         
      Instructions: Read “The United States and the 1848 Revolutions.”
@@ -141,7 +141,7 @@ id="6.1"></span> 
 -   **Reading: The Saylor Foundation’s “Revolutions and the Modern
     World”**
     Link: The Saylor Foundation’s [“Revolutions and the Modern
-    World”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST303-6.2.3-Revolution-and-the-Modern-World.pdf)
+    World”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST303-6.2.3-Revolution-and-the-Modern-World.pdf)
     (PDF)  
         
      Instructions: Read this text.  In this document, you will learn
