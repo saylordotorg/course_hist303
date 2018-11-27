@@ -523,7 +523,7 @@ topic.*
 -   **Reading: The Saylor Foundation’s “Abolition of Existing
     Institutions”**
     Link: The Saylor Foundation’s [“Abolition of Existing
-    Institutions”](http://www.saylor.org/site/wp-content/uploads/2012/03/HIST303-Abolition-of-Institutions.pdf)
+    Institutions”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/HIST303-Abolition-of-Institutions.pdf)
     (PDF)  
         
      Instructions: Please read this article.  Historians calculate that
@@ -584,7 +584,7 @@ topic.*
 **3.4.4 The Spread of the Revolution** <span id="3.4.4"></span> 
 -   **Reading: he Saylor Foundation’s “Radicalism and Danger”**
     Link: The Saylor Foundation’s [“Radicalism and
-    Danger”](http://www.saylor.org/site/wp-content/uploads/2012/03/HIST303-Radicalism-and-Danger.pdf)
+    Danger”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/HIST303-Radicalism-and-Danger.pdf)
     (PDF)  
         
      Instructions: Read “Radicalism and Danger.”  Remember that during
@@ -619,12 +619,12 @@ topic.*
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
 
     Link: The Saylor Foundation’s [“Unit 3
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST303-Unit-3-Assessment.FINAL_.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST303-Unit-3-Assessment.FINAL_.pdf)
     (PDF)  
       
      Instructions: Please complete this assessment.  You can check your
     answers against The Saylor Foundation’s [“Unit 3 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST303-Unit-3-Answer-Key.FINAL_.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST303-Unit-3-Answer-Key.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.

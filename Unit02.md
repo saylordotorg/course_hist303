@@ -87,7 +87,7 @@ Upon successful completion of this unit, you will be able to:
 **2.1.2 The French and Indian War** <span id="2.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Seven Years’ War”**
     Link: The Saylor Foundation’s [“The Seven Years’
-    War”](http://www.saylor.org/site/wp-content/uploads/2012/11/HIST303-2.1.2-SevenYearsWar-FINAL.pdf)
+    War”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-2.1.2-SevenYearsWar-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this text.  This reading offers a review of one
@@ -100,7 +100,7 @@ Upon successful completion of this unit, you will be able to:
 **2.1.3 The Estrangement of the Colonies** <span id="2.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “The American Revolution”**
     Link: The Saylor Foundation’s [“The American
-    Revolution”](http://www.saylor.org/site/wp-content/uploads/2012/11/HIST303-2.1.3-TheAmericanRevolution-FINAL.pdf)
+    Revolution”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-2.1.3-TheAmericanRevolution-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this text.  In this reading, you will learn
@@ -287,7 +287,7 @@ minutes to review these sections.*
 **2.4.2 Equal Rights** <span id="2.4.2"></span> 
 -   **Reading: The Saylor Foundation’s “Goals of the Revolution”**
     Link: The Saylor Foundation’s [“Goals of the
-    Revolution”](http://www.saylor.org/site/wp-content/uploads/2012/03/HIST303-Goals-of-the-Revolution.pdf)
+    Revolution”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/HIST303-Goals-of-the-Revolution.pdf)
     (PDF)  
         
      Instructions: Read this text.  This reading also covers the topic
@@ -312,7 +312,7 @@ what they wanted freedom from (i.e., tyranny) relates to democracy.*
 **2.5.1 What Kind of Government?** <span id="2.5.1"></span> 
 -   **Reading: The Saylor Foundation’s “Challenges of the Revolution”**
     Link: The Saylor Foundation’s [“Challenges of the
-    Revolution”](http://www.saylor.org/site/wp-content/uploads/2012/03/HIST303-Challenges-of-the-Revolution.pdf)
+    Revolution”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/HIST303-Challenges-of-the-Revolution.pdf)
     (PDF)  
         
      Instructions: Read “Challenges of the Revolution.” This text
@@ -406,7 +406,7 @@ what they wanted freedom from (i.e., tyranny) relates to democracy.*
 -   **Reading: The Saylor Foundation’s “How Revolutionary Was the
     American Revolution?”**
     Link: The Saylor Foundation’s [“How Revolutionary Was the American
-    Revolution?”](http://www.saylor.org/site/wp-content/uploads/2012/11/HIST303-2.6.1-HowRevolutionaryWastheRevolution-FINAL.pdf)
+    Revolution?”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-2.6.1-HowRevolutionaryWastheRevolution-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this text.  As you read, consider the following
@@ -446,12 +446,12 @@ what they wanted freedom from (i.e., tyranny) relates to democracy.*
 -   **Assessment: The Saylor Foundation’s “Unit 2 Assessment”**
 
     Link: The Saylor Foundation’s [“Unit 2
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST303-OC-Unit-2.Assessment.FINAL_.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST303-OC-Unit-2.Assessment.FINAL_.pdf)
     (PDF)  
       
      Instructions: Please complete this assessment.  You can check your
     work against The Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST303-OC-Unit-2.Answer-Key.FINAL_.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST303-OC-Unit-2.Answer-Key.FINAL_.pdf)
     (PDF).  
         
      Completing this assessment should take no more than 30 minutes.
