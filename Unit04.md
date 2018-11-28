@@ -64,7 +64,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.1 The Haitian Revolution** <span id="4.1"></span> 
 -   **Reading: The Saylor Foundation’s “The Haitian Revolution”**
     Link: The Saylor Foundation’s [“The Haitian
-    Revolution”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST303-4.1-The-Haitian-Revolution-FINAL-3.pdf)
+    Revolution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST303-4.1-The-Haitian-Revolution-FINAL-3.pdf)
     (PDF)  
         
      Instructions: Please read this text.  This reading will give you an
@@ -106,7 +106,7 @@ topic.*
 -   **Reading: The Saylor Foundation’s “Civil Rights for Les Gens de
     Couleur”**
     Link: The Saylor Foundation’s [“Civil Rights for Les Gens de
-    Couleur”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/HIST303-Gens-de-Couleur.pdf)
+    Couleur”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/HIST303-Gens-de-Couleur.pdf)
     (PDF)  
         
      Instructions: Read this text.  As you read, consider the following
@@ -144,9 +144,9 @@ assigned below subunit 4.1.3 cover this topic.* 
 -   **Reading: The Saylor Foundation’s “Period of Imperial Crisis” (PDF)
     and “Causation of Spanish American Independence”**
     Link: The Saylor Foundation’s [“Period of Imperial
-    Crisis”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-4.2.1-PeriodofImperialCrisis-FINAL.pdf)
+    Crisis”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-4.2.1-PeriodofImperialCrisis-FINAL.pdf)
     (PDF) and [“Causation of Spanish American
-    Independence”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-4.2.1-Causation-of-Spanish-American-Independence-FINAL.pdf) (PDF)  
+    Independence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-4.2.1-Causation-of-Spanish-American-Independence-FINAL.pdf) (PDF)  
         
      Instructions: Read this text.  As you read, consider the following
     study question: Why was it so important for so many of the Spanish
@@ -219,7 +219,7 @@ assigned below subunit 4.1.3 cover this topic.* 
 -   **Reading: The Saylor Foundation’s “Simón Bolívar and José de San
     Martin”**
     Link: The Saylor Foundation’s [“Simón Bolívar and José de San
-    Martin”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-4.3.2-Bolivar-and-SanMartin-FINAL.pdf)
+    Martin”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-4.3.2-Bolivar-and-SanMartin-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this text.  General Simón Bolívar was hailed as
@@ -336,12 +336,12 @@ assigned below subunit 4.1.3 cover this topic.* 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Assessment”**
 
     Link: The Saylor Foundation’s [“Unit 4
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST303-Unit-4-Assessment.FINAL_.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST303-Unit-4-Assessment.FINAL_.pdf)
     (PDF)  
       
      Instructions: Please complete this assessment.  You can check your
     work against The Saylor Foundation’s [“Unit 4 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST303-Unit-4-Answer-Key.FINAL_.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST303-Unit-4-Answer-Key.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take no more than 30 minutes.

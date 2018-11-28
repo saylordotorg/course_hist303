@@ -299,9 +299,9 @@ id="1.1.4"></span> 
 -   **Reading: The Saylor Foundation’s “The Customs of Louis XIV” and
     “The Courtiers”**
     Link: The Saylor Foundation’s [“The Customs of Louis
-    XIV”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-1.2.2-TheCustomsofLouisXIV-FINAL.pdf) (PDF)
+    XIV”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-1.2.2-TheCustomsofLouisXIV-FINAL.pdf) (PDF)
     and [“The
-    Courtiers”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-1.2.2-TheCourtiers-FINAL.pdf)
+    Courtiers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-1.2.2-TheCourtiers-FINAL.pdf)
     (PDF)  
                   
      Instructions: Read these texts.  Pay special attention to his
@@ -317,7 +317,7 @@ id="1.1.4"></span> 
 -   **Reading: The Saylor Foundation’s “Democracy in the Age of
     Revolutions”**
     Link: The Saylor Foundation’s [“Democracy in the Age of
-    Revolutions”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/HIST303-Democracy.pdf)
+    Revolutions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/HIST303-Democracy.pdf)
     (PDF)  
         
      Instructions: Read this text.  This reading offers an in-depth
@@ -331,9 +331,9 @@ id="1.1.4"></span> 
 -   **Reading: The Saylor Foundation’s “European and Colonial
     Resistance” (PDF) and “The Abolition of the Slave Trade”**
     Link: The Saylor Foundation’s [“European and Colonial
-    Resistance”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-1.2.4-EuropeanandColonialResistancetoSlavery-FINAL.pdf)
+    Resistance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-1.2.4-EuropeanandColonialResistancetoSlavery-FINAL.pdf)
     (PDF) and [“The Abolition of the Slave
-    Trade”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST303-1.2.4-AbolitionofSlaveTrade-FINAL.pdf)
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST303-1.2.4-AbolitionofSlaveTrade-FINAL.pdf)
     (PDF)  
         
      Instructions: Read these texts.  These texts provide a well-balance
@@ -385,12 +385,12 @@ id="1.1.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Assessment”**
 
     Link: The Saylor Foundation’s [“Unit 1
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST303-OC-Unit-1.Assessment.FINAL_.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST303-OC-Unit-1.Assessment.FINAL_.pdf)
     (PDF)  
       
      Instructions: Please complete the assessment. You can check your
     work against The Saylor Foundation’s [“Unit 1 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST303-OC-Unit-1-Answer-Key.FINAL_.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST303-OC-Unit-1-Answer-Key.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take no more than 30 minutes.
